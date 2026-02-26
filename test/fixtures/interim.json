@@ -1,0 +1,6 @@
+[
+  {"long_format": "20000101T220", "short_format": "000101T220", "separated_format": "000101-T220", "separated_long": "20000101-T220", "valid": true, "type": "interim", "isMale": false, "isFemale": true},
+  {"long_format": "20000101R220", "short_format": "000101R220", "separated_format": "000101-R220", "separated_long": "20000101-R220", "valid": true, "type": "interim", "isMale": false, "isFemale": true},
+  {"long_format": "20000101S220", "separated_format": "000101-S220", "valid": true, "type": "interim", "isMale": false, "isFemale": true},
+  {"long_format": "20000101E221", "separated_format": "000101-E221", "valid": false, "type": "interim"}
+]

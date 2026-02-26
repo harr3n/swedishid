@@ -1,0 +1,10 @@
+[
+  {"integer": 8572090606, "short_format": "8572090606", "separated_format": "857209-0606", "valid": true, "type": "org"},
+  {"integer": 8020051952, "short_format": "8020051952", "separated_format": "802005-1952", "valid": true, "type": "org"},
+  {"integer": 8020057538, "short_format": "8020057538", "separated_format": "802005-7538", "valid": true, "type": "org"},
+  {"integer": 8024062302, "short_format": "8024062302", "separated_format": "802406-2302", "valid": true, "type": "org"},
+  {"integer": 8551040721, "short_format": "8551040721", "separated_format": "855104-0721", "valid": true, "type": "org"},
+  {"integer": 8020144120, "short_format": "8020144120", "separated_format": "802014-4120", "valid": true, "type": "org"},
+  {"integer": 5567037485, "short_format": "5567037485", "separated_format": "556703-7485", "valid": true, "type": "org"},
+  {"integer": 2120000142, "short_format": "2120000142", "separated_format": "212000-0142", "valid": true, "type": "org"}
+]
